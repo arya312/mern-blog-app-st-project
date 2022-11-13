@@ -22,8 +22,7 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate qui
-          necessitatibus nostrum illum reprehenderit.
+          This website has been designed and developed by Arya Pandey and Atmika Mishra.
         </p>
       </div>
       <div className="sidebarItem">
