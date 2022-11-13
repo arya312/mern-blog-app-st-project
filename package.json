@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "bcrypt": "^5.0.1",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "mongoose": "^5.12.9",
@@ -17,7 +16,8 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
   },
   "engines": {
-        "node": "10.16.0"
+        "node": "16.14.2",
+        "npm": "8.7.0"
   },
   "author": "",
   "license": "ISC",
